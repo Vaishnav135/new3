@@ -10,6 +10,7 @@ public class practise {
 {
 			
 			System.out.println("Number is Even" );
+			System.out.println("Number is odd" );
 		}
 		else 
 {
