@@ -15,6 +15,8 @@ public class practise {
 {
 			
 			System.out.println("Number is odd" );
+			System.out.println("Number is odd" );
+			
 		}
 	}
 
